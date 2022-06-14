@@ -1,0 +1,178 @@
+
+.title-section {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.logo {
+    width: 80px;
+    display: inline-block;
+}
+
+h1 {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 30px;
+    padding-left: 5px;
+}
+
+.sub-title {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+    padding-left: 100px;
+    margin-top: -37px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(239, 239, 243);
+}
+
+.Side-bar {
+    border-right: solid 1px black;
+    width: 280px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 10px;
+    height: 600px;
+}
+
+
+.links {
+    display: block;
+    background-color: rgb(235, 235, 235);
+    width: 100px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+.links > a {
+    text-decoration: none;
+    color: black;
+}
+
+hr {
+    width: 250px;
+    margin-left: 5px;
+    margin-top: 30px;
+}
+
+.profile {
+    width: 70px;
+    border-radius: 70px;
+    margin-bottom: 5px;
+}
+
+.msJenn {
+    display: flex;
+}
+
+.msJenn > p {
+    padding-left: 5px;
+    font-weight: lighter;
+}
+
+.mrAhmed {
+    display: flex;
+}
+
+.mrAhmed > p {
+    padding-left: 5px;
+    font-weight: lighter;
+}
+
+.mrIvan {
+    display: flex;
+}
+
+.mrIvan > p {
+    padding-left: 5px;
+    font-weight: lighter;
+}
+
+.content {
+    width: 1000px;
+    margin-left: 300px;
+    margin-top: -615px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.path {
+    display: flex;
+}
+
+
+.path > a {
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-top: 20px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    padding-top: 17px;
+    padding-left: 5px;
+}
+
+.like {
+    width: 100px;
+    padding-left: 580px;
+    padding-top: 10px;
+}
+
+.jargons {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 18px;
+    padding-left: 10px;
+    margin-top: -15px;
+}
+
+.jargons-title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.def {
+    font-style: italic;
+    margin-top: -5px;
+    color: rgb(154, 154, 159);
+}
+
+.our-jar {
+    margin-top: -5px;
+    font-weight: bold;
+}
+
+span {
+    text-decoration: underline;
+}
+
+ul {
+    margin-top: -10px;
+}
+
+
+.cookies {
+    border: dotted 1px black;
+    display: flex;
+    margin-top: 30px;
+}
+
+.cookie {
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+}
+
+.cookie-time {
+    font-weight: bold;
+}
+.accept {
+    height: 30px;
+    width: 70px;
+    margin-top: 45px;
+    margin-right: 5px;
+    background-color: rgb(239, 239, 243);
+}

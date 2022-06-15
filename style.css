@@ -27,22 +27,24 @@ h1 {
 }
 
 .Side-bar {
-    border-right: solid 1px black;
-    width: 280px;
+    padding-top: 10px;
+    width: 210px;
     font-family: 'Signika Negative', sans-serif;
     font-size: 18px;
     font-weight: bold;
-    padding-left: 10px;
+    text-align: center;
     height: 600px;
+    background-color: rgb(239, 239, 243);
 }
 
 
 .links {
     display: block;
-    background-color: rgb(235, 235, 235);
+    background-color: rgb(255, 255, 255);
     width: 100px;
     height: 30px;
     margin-top: 5px;
+    margin-left: 25%;
 }
 
 .links > a {
@@ -51,8 +53,8 @@ h1 {
 }
 
 hr {
-    width: 250px;
-    margin-left: 5px;
+    width: 175px;
+    margin-left: 18px;
     margin-top: 30px;
 }
 
@@ -60,6 +62,7 @@ hr {
     width: 70px;
     border-radius: 70px;
     margin-bottom: 5px;
+    margin-left: 15px;
 }
 
 .msJenn {
@@ -90,8 +93,8 @@ hr {
 }
 
 .content {
-    width: 1000px;
-    margin-left: 300px;
+    width: 1100px;
+    margin-left: 220px;
     margin-top: -615px;
     font-family: 'Signika Negative', sans-serif;
 }
@@ -117,7 +120,7 @@ hr {
 
 .like {
     width: 100px;
-    padding-left: 580px;
+    padding-left: 680px;
     padding-top: 10px;
 }
 
@@ -158,6 +161,7 @@ ul {
     border: dotted 1px black;
     display: flex;
     margin-top: 30px;
+    width: 1000px;
 }
 
 .cookie {
